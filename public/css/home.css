@@ -1,0 +1,21 @@
+body{
+    background-image: url("/siteimages/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    position: fixed;
+    font-size: xx-large;
+}
+.ulmain{
+    display: inline;
+    float: right;
+}
+.ulmain>a>li{
+    color: wheat;
+    display: inline;
+    padding-left: 40px;
+
+}
+
+
